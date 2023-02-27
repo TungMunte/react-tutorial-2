@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "name": "George Lueilwitz",
+      "id": 14
+    },
+    {
+      "name": "Gretchen Kerluke",
+      "id": 18
+    },
+    {
+      "name": "Josephine Wunsch",
+      "id": 19
+    },
+    {
+      "name": "Sadie Johns",
+      "id": 20
+    },
+    {
+      "name": "Beth Kirlin",
+      "id": 21
+    },
+    {
+      "name": "Anna Abbott",
+      "id": 22
+    },
+    {
+      "name": "Nick Hettinger",
+      "id": 23
+    }
+  ],
+  "albums": [
+    {
+      "userId": 14,
+      "title": "Small Granite Chair",
+      "id": 24
+    },
+    {
+      "userId": 14,
+      "title": "Unbranded Fresh Fish",
+      "id": 26
+    },
+    {
+      "userId": 14,
+      "title": "Unbranded Steel Shirt",
+      "id": 28
+    },
+    {
+      "userId": 14,
+      "title": "Fantastic Metal Chair",
+      "id": 29
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22574",
+      "id": 1
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84528",
+      "id": 2
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73416",
+      "id": 3
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51232",
+      "id": 7
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23840",
+      "id": 14
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=81186",
+      "id": 15
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2510",
+      "id": 16
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3727",
+      "id": 17
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13998",
+      "id": 18
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98885",
+      "id": 19
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46652",
+      "id": 20
+    }
+  ]
+}
